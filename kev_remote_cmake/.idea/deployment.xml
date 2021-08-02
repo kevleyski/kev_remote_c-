@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="kevs-nano (7447d958-df6b-4836-9f71-682d994e5caf)" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="kevs-nano (7447d958-df6b-4836-9f71-682d994e5caf)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/kjsl.bCJqYLFo8A" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-remote-jetsonnano-aarch64" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-remote-ubuntu-na2-x86" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="na2 (9570cdac-3277-428b-b5f0-acc2273d9e03)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/kjsl.bCJqYLFo8A" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-remote-jetsonnano-aarch64" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-remote-ubuntu-na2-x86" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSharedSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug-Remote-JetsonNano-aarch64" ENABLED="true" CONFIG_NAME="Debug" TOOLCHAIN_NAME="kevs-nano" BUILD_OPTIONS="-- -j 9" />
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+      <configuration PROFILE_NAME="Debug-Remote-Ubuntu-NA2-x86" ENABLED="true" CONFIG_NAME="Debug" TOOLCHAIN_NAME="na2" BUILD_OPTIONS="-- -j 9" />
+    </configurations>
+  </component>
+</project>

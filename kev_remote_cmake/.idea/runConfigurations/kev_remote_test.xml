@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="kev_remote_test" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="kev_remote_test" TARGET_NAME="kev_remote_test" CONFIG_NAME="Debug-Remote-Ubuntu-NA2-x86" RUN_TARGET_PROJECT_NAME="kev_remote_test" RUN_TARGET_NAME="kev_remote_test">
+    <method v="2">
+      <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+    </method>
+  </configuration>
+</component>
